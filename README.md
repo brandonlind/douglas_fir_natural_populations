@@ -28,6 +28,11 @@ Notebooks are hyperlinked to be viewed on nbviewer.org, but are best viewed in a
 - [02_01_DF_pooled_GEA_coastal_gather.ipynb](https://nbviewer.org/github/brandonlind/douglas_fir_natural_populations/blob/main/02_baypass/02_01_DF_pooled_GEA_coastal_gather.ipynb) - retrieve coastal variety GEA jobs from slurm and combine results from replicates into one dataframe
 - [02_02_DF_pooled_GEA_interior_gather.ipynb](https://nbviewer.org/github/brandonlind/douglas_fir_natural_populations/blob/main/02_baypass/02_02_DF_pooled_GEA_interior_gather.ipynb) - retrieve interior variety GEA jobs from slurm and combine results from replicates into one dataframe
 
+[12_kmeans_pca](https://nbviewer.org/github/brandonlind/douglas_fir_natural_populations/tree/main/12_kmeans_pca/) - use a combination of k-means clustering of PCA and geography to determine population colors for visualization purposes
+- [01_pca_coastal.ipynb](https://nbviewer.org/github/brandonlind/douglas_fir_natural_populations/blob/main/12_kmeans_pca/01_pca_coastal.ipynb) - run kmeans clustering to identify PCA groups for coastal Douglas-fir
+- [02_pca_both_varieties.ipynb](https://nbviewer.org/github/brandonlind/douglas_fir_natural_populations/blob/main/12_kmeans_pca/02_pca_both_varieties.ipynb) - create PCA figs across varieties
+- [03_pca_interior.ipynb](https://nbviewer.org/github/brandonlind/douglas_fir_natural_populations/blob/main/12_kmeans_pca/03_pca_interior.ipynb) - run kmeans clustering to identify PCA groups for interior Douglas-fir
+
 ---
 
 pythonimports module seen in notebooks is here: https://github.com/brandonlind/pythonimports
