@@ -20,6 +20,8 @@ Lind BM. 2023. GitHub.com/brandonlind/offset_validation: Preprint release (Versi
 
 ## Outline
 
+Notebooks are hyperlinked to be viewed on nbviewer.org, but are best viewed in a jupyter session so that cells can be collapsed or scrolled (html and nbviewer versions, links below do not allow scrolling).
+
 [02_baypass](https://nbviewer.org/github/brandonlind/douglas_fir_natural_populations/tree/main/02_baypass/)
 - [01_01_DF_pooled_GEA_coastal_kickoff.ipynb](https://nbviewer.org/github/brandonlind/douglas_fir_natural_populations/blob/main/02_baypass/01_01_DF_pooled_GEA_coastal_kickoff.ipynb) - create covariance matrix for structure correction and submit GEA jobs to slurm
 - [01_02_DF_pooled_GEA_interior_kickoff.ipynb](https://nbviewer.org/github/brandonlind/douglas_fir_natural_populations/blob/main/02_baypass/01_02_DF_pooled_GEA_interior_kickoff.ipynb) - create covariance matrix for structure correction and submit GEA jobs to slurm
